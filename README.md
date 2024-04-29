@@ -1,5 +1,5 @@
 # Product inventory project with crud and user roles with permissions. 
-Only logged in users with the right permissions can manage products and/or staff.
+Only logged in users with the right permissions can manage products and staff.
 
 ## Installation 
 Minimum requirments PHP 8.1, MySQL/MariaDB, composer and Node.js.
