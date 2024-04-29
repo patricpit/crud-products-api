@@ -1,14 +1,8 @@
-# Simple Laravel 10 User Roles and Permissions
-Learn how to develop simple Laravel 10 user roles and permissions application
-
-> The complete tutorial step by step guide is available on my blog. [AllPHPTricks Laravel roles and permissions](https://www.allphptricks.com/simple-laravel-10-user-roles-and-permissions/)
-
-## Blog
-https://www.allphptricks.com/
-
+# Product inventory project with crud and user roles and permissions. 
+Only logged in users with the right permissions can manage products and/or staff.
 
 ## Installation 
-Make sure that you have setup the environment properly. You will need minimum PHP 8.1, MySQL/MariaDB, composer and Node.js.
+Minimum requirments PHP 8.1, MySQL/MariaDB, composer and Node.js.
 
 1. Download the project (or clone using GIT)
 2. Copy `.env.example` into `.env` and configure your database credentials
