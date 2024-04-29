@@ -1,0 +1,12 @@
+
+        	Super Admin
+            username = pete@email.com'
+            password = superman1234
+       
+                Admin User
+            username = rdas_admin@email.com
+            password = rdasadmin1234
+       
+                Manager
+            username = austinpowers@email.com',
+            password = austinpowers1234
