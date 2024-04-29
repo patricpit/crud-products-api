@@ -1,4 +1,4 @@
-# Product inventory project with crud and user roles and permissions. 
+# Product inventory project with crud and user roles with permissions. 
 Only logged in users with the right permissions can manage products and/or staff.
 
 ## Installation 
