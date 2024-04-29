@@ -1,5 +1,5 @@
 # Product inventory project with crud and user roles with permissions. 
-Only logged in users with the right permissions can manage products and/or staff.
+Only logged in users with the right permissions can manage products and staff.
 
 ## Installation 
 Minimum requirments PHP 8.1, MySQL/MariaDB, composer and Node.js.
@@ -13,3 +13,4 @@ Minimum requirments PHP 8.1, MySQL/MariaDB, composer and Node.js.
 7. Run `npm install`
 8. Run `npm run build` to build assets
 9. Start local server by executing `php artisan serve`
+10. Login application using credentials from access-file located in the application root folder.
